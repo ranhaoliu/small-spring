@@ -1,3 +1,4 @@
+.gitignore
 # Compiled class file
 *.class
 
@@ -22,7 +23,15 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-
+small-spring-step-01/.idea/codeStyles/Project.xml
+small-spring-step-01/.idea/compiler.xml
+small-spring-step-01/.idea/dbnavigator.xml
+small-spring-step-01/.idea/encodings.xml
+small-spring-step-01/.idea/libraries/Maven__junit_junit_4_7.xml
+small-spring-step-01/.idea/misc.xml
+small-spring-step-01/.idea/modules.xml
+small-spring-step-01/.idea/vcs.xml
+small-spring-step-01/.idea/dbnavigator.xml
 
 /.idea/
 /small-spring-step-01/small-spring-step-01.iml
